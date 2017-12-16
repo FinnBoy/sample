@@ -18,6 +18,8 @@ warn: sample's maven version must not be SNAPSHOT.
       
       $ mvn install
       
+      $ mvn archetype:update-local-catalog
+      
       # then, you install in maven's local repository successfully
       
       # archetype's source-code in maven's local repository
