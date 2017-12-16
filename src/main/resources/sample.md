@@ -1,4 +1,6 @@
 
+warn: sample's maven version must not be SNAPSHOT.
+
 - 1st
 
       mvn archetype:create-from-project
