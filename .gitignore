@@ -39,7 +39,7 @@ hs_err_pid*
 target/
 
 ### IntelliJ project files
-.idea
+.idea/
 *.iml
 out
 gen
@@ -47,3 +47,4 @@ gen
 ### Eclipse project files
 .classpath
 .project
+.DS_Store
